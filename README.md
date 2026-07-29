@@ -6,7 +6,6 @@ A real-time computer vision project that detects, tracks, and counts people cros
 
 ## 📸 Project Demo
 
-> Add your project thumbnail or GIF here.
 
 <p align="center">
   <img src="thumbnail.png" width="850">
