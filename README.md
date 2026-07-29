@@ -118,5 +118,5 @@ The processed files are saved in the **output/** directory.
 
 **Manas Ranjan Meher**
 
-GitHub: https://github.com/manasranjanmeher99
-Linkedin: https://www.linkedin.com/in/manas-ranjan-meher-606181280/
+- GitHub: https://github.com/manasranjanmeher99
+- LinkedIn: [https://www.linkedin.com/in/manas-ranjan-meher](https://www.linkedin.com/in/manas-ranjan-meher-606181280/)
